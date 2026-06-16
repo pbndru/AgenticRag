@@ -1,0 +1,9 @@
+# Ignore local vector database indexes
+local_vector_db/
+.local_vector_db/
+solicitor_rag_project/data/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
